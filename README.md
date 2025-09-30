@@ -1,8 +1,8 @@
 
 # 🌍 Language Translation (English -> Arabic)
 
-This project is a  web app built with **FastAPI** and a **BERT Encoder–Decoder** model.  
-It allows users to translate text between **English ↔ Arabic** in real time using Hugging Face models.
+This project is a Language Translation (English -> Arabic) By Fine-tuning BERT (where I load its to Hugging Face), with a web app built with **FastAPI**.  
+It allows users to translate text from **English -> Arabic**.
 
 ---
 
@@ -10,7 +10,7 @@ It allows users to translate text between **English ↔ Arabic** in real time us
 
 ```
 
-Language Translation/
+Language-Translation-using-Finetuned-BERT/
 │── app.py                          # FastAPI application entry point
 │── finetune-bert-translation.ipynb # Notebook for fine-tuning BERT translation model
 │── templates/                      # Jinja2 HTML templates for frontend
