@@ -37,7 +37,7 @@ Language Translation/
    ```bash
    git clone https://github.com/drisskhattabi6/Language-Translation-using-Finetuned-BERT.git
    cd Language-Translation-using-Finetuned-BERT
-````
+```
 
 2. **Install Dependencies** (no venv required)
 
